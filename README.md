@@ -1,3 +1,8 @@
+----  
+[⚠ WARNING]  
+DONT PUSH ANYTHING TO THIS REPO. IT IS PUBLIC!!
+--
+
 ## Amazon CloudFront Client Routing Library
 
 The Amazon CloudFront Client Routing Library is an open-source library designed for CloudFront's Client Routing feature, which is used direct client devices to CloudFront Points of Presence (POPs) with greater precision. Client Routing feature utilizes information present within a specially formatted DNS label, and this library provides functions to encode and decode such DNS labels.
